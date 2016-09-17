@@ -1,13 +1,13 @@
 @font-face{
 	font-family: "DancingScript";
-	src: url('Fonts/Dancing_Script/DancingScript-Regular.ttf');
+	src: url('fonts/Dancing_Script/DancingScript-Regular.ttf');
 	font-weight: normal;
 }
 
 
 @font-face{
 	font-family: "DancingScript";
-	src: url('Fonts/Dancing_Script/DancingScript-Bold.ttf');
+	src: url('fonts/Dancing_Script/DancingScript-Bold.ttf');
 	font-weight: bold;
 }
 
